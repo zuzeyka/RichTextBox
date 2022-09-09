@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBox", "RichTextBox\RichTextBox.csproj", "{62B95E78-4AD2-4E21-95DB-F7FD2997D03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B95E78-4AD2-4E21-95DB-F7FD2997D03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B95E78-4AD2-4E21-95DB-F7FD2997D03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B95E78-4AD2-4E21-95DB-F7FD2997D03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B95E78-4AD2-4E21-95DB-F7FD2997D03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75133D25-49C3-47CB-BE0C-2925F847F90C}
+	EndGlobalSection
+EndGlobal
